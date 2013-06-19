@@ -10,6 +10,7 @@ public class Levocan {
 		int b = 9;
 		int c = 29;
 		int d = 20;
+		int e = 8;
 
 	}
 
